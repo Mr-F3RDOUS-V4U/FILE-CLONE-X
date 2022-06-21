@@ -12,4 +12,4 @@ git clone https://github.com/ferdousvau1/FILE-CLONE-X
 
 cd FILE-CLONE-X 
 
-python 
+python File-Clone-v1.py
